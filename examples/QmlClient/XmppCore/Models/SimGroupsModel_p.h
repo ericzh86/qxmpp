@@ -1,0 +1,4 @@
+#ifndef SIMGROUPMODEL_P_H
+#define SIMGROUPMODEL_P_H
+
+#endif // SIMGROUPMODEL_P_H

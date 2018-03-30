@@ -33,7 +33,7 @@
 #include "QXmppUtils.h"
 #include "QXmppEntityTimeManager.h"
 #include "QXmppEntityTimeIq.h"
-#include "QXmppConstants.h"
+#include "QXmppConstants_p.h"
 
 profileDialog::profileDialog(QWidget *parent, const QString& bareJid, QXmppClient& client, capabilitiesCache& caps) :
     QDialog(parent, Qt::WindowTitleHint|Qt::WindowSystemMenuHint),
